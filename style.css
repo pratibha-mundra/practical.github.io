@@ -142,6 +142,7 @@ header {
 .bottom-bar li a:hover {
   color: #DC3636;
   border-bottom: 1px solid #DC3636;
+  text-decoration:none;
 }
 @media (max-width: 992px) {
   .bottom-bar li a {
